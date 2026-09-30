@@ -99,3 +99,5 @@ npm run build    # production bundle in dist/
 
 Dashboard: drag-drop upload → predicted appliance + P300 badge → confidence
 bars → multi-channel preprocessed EEG line chart → archive file list.
+## Team Contribution
+Worked on project documentation and repository setup.
